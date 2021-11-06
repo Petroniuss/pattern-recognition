@@ -1,4 +1,6 @@
 **/imgs/
+**/history/
+**/models/
 *.pdf
 
 # Byte-compiled / optimized / DLL files
